@@ -1,0 +1,194 @@
+﻿Entry,Type_OC,Chemical_OC,Host,Processing,Ap,Amin,Amax,Ep,Emin,Emax,QY,nopt
+1,dye,hybrid,"GLYMO/TMSO/ASB",film,578,420,600,613,550,750,98,18.80
+2,QD,polymer,PMMA,bulk,730,600,900,910,800,1000,,2.50
+3,QD,polymer,PMMA,bulk,730,600,900,910,800,1000,,2.50
+4,QD,polymer,PMMA,fiber,730,600,900,910,800,1000,,4.00
+5,QD,polymer,PMMA,fiber,730,600,900,910,800,1000,,7.00
+6,QD,solvent,toluene,solution,800,400,800,900,700,1000,30,1.40
+7,QD,solvent,toluene,solution,600,400,600,630,600,700,50,0.50
+8,QD,solvent,toluene,solution,376,300,650,623,600,700,50,0.30
+9,dye,solvent,chlorobenzene,solution,413,400,600,657,600,800,67,3.40
+10,dye,solvent,"PC/EG",solution,550,450,600,629,550,750,95,2.60
+11,dye,solvent,"PC/EG",solution,466,300,750,685,700,900,11,0.60
+12,dye,solvent,"PC/EG",solution,557,300,750,802,700,900,9,0.50
+13,polymer,solvent,chlorobenzene,solution,460,350,550,592,550,800,45,1.00
+14,dye,polymer,PCMA,film,403,300,450,471,400,600,40.8,7.70
+15,dye,hybrid,d-U(600),bulk,370,300,450,650,450,750,67,5.50
+16,NP,polymer,PMMA,bulk,470,400,550,597,500,725,,4.09
+17,dye,polymer,PMMA,bulk,340,300,400,480,400,600,78,0.40
+18,NP,polymer,"PMMA/PLMA",bulk,375,300,450,750,400,900,45,4.25
+19,Lndye,polymer,PMMA,fiber,540,350,550,630,500,700,,0.29
+20,NP,polymer,PMMA,bulk,550,400,750,800,600,1000,80,6.80
+21,QD,polymer,PLMA,bulk,650,500,770,718,520,850,63,1.75
+22,QD,solvent,"OLA/DDT",solution,650,500,770,718,520,850,63,3.67
+23,CD,polymer,PMMA,bulk,350,300,400,435,380,575,,12.23
+24,CD,hybrid,"liquid crystal",bulk,350,280,400,450,390,600,,4.52
+25,CD,hybrid,KH-792,film,350,300,425,510,400,650,45,12.00
+26,CD,polymer,PVP,film,325,300,400,430,380,600,,5.02
+27,CD,polymer,PVP,bulk,340,300,600,540,450,700,40,0.92
+28,CDQD,polymer,"PVP; PLMA-co-EGDA",bulk,400,300,500,500,400,550,70,3.05
+29,NP,polymer,PVP,film,400,300,500,600,500,700,25,1.85
+30,NP,polymer,polystyrene,film,325,300,520,518,475,525,58,2.40
+31,CD,polymer,PMMA,film,380,280,700,420,400,650,,4.75
+32,CD,polymer,PLMA,bulk,440,300,500,540,450,700,25,1.20
+33,QD,polymer,PLMA,bulk,500,400,600,830,600,1000,50,2.85
+34,QD,polymer,"acrylate nanocomposite",film,450,350,750,862,800,1100,91,8.10
+35,QD,polymer,PMMA,film,350,400,800,740,600,850,,6.97
+36,QD,polymer,PVP,bulk,500,350,650,805,600,1000,78,6.40
+37,QD,polymer,PLMA,bulk,640,400,1000,960,700,1200,40,3.27
+38,QD,polymer,PMMA,bulk,415,310,620,918,620,1240,60.3,3.94
+39,Ln,Inorganic,"CaI2/NaCl",film,650,400,900,1140,1000,1200,100,14.90
+40,dye,polymer,PDMS,bulk,478,250,600,601,550,800,61.1,22.00
+41,dye,polymer,PDMS,bulk,513,300,650,642,650,800,24.8,3.30
+42,dye,polymer,PDMS,bulk,449,250,550,571,500,800,80,27.80
+43,dye,polymer,PDMS,bulk,473,250,600,607,500,800,44.3,24.70
+44,QD,polymer,OSTE,bulk,450,350,1000,825,650,1000,55,7.90
+45,dye,polymer,PMMA,bulk,491,300,500,581,550,650,95,23.70
+46,Ln,polymer,Parylene,film,347,250,400,613,570,710,,2.47
+47,Ln,polymer,"photopolymerizable composition ""Prism"" (PPC)",film,590,280,600,630,550,700,65,11.30
+48,Ln,polymer,PMMA,film,380,250,400,612,570,710,30.5,0.34
+49,Ln,hybrid,t-U(5000),film,370,290,380,611,570,710,27,3.20
+50,Ln,polymer,PVA,film,290,280,400,546,380,650,40,8.80
+51,Ln,hybrid,BS,film,350,240,420,612,570,710,34,4.30
+52,Ln,hybrid,"4,40-diureido-2,20-bipyridine bridged organosilane",film,325,240,400,612,570,710,8,1.20
+53,Ln,hybrid,"4,40-diureido-2,20-bipyridine bridged organosilane",film,325,240,400,544,450,650,12,1.70
+54,Ln,hybrid,t-U(5000),film,370,240,400,612,570,710,63,9.00
+55,Ln,hybrid,d-U(600),film,370,300,380,615,570,710,61,1.20
+56,Ln,hybrid,tetracarboxamide-BS,film,380,240,380,612,570,710,23,0.43
+57,Ln,hybrid,d-U(600),film,360,240,380,612,570,710,30,0.01
+58,Ln,hybrid,t-U(5000),fiber,360,240,420,615,570,710,85,2.30
+59,dye,hybrid,d-U(600),film,520,300,540,590,550,700,78,0.08
+60,dye,hybrid,d-U(600),fiber,520,300,540,590,550,700,78,1.60
+61,dye,hybrid,t-U(5000),fiber,520,300,540,590,550,700,93,8.00
+62,dye,hybrid,t-U(5000),film,770,300,800,775,700,950,16,1.50
+63,dye,hybrid,d-U(600),bulk,665,250,700,670,600,750,12,3.70
+64,Ln,hybrid,t-U(5000),fiber,370,300,450,615,570,710,89,0.70
+65,dye,hybrid,t-U(5000),fiber,560,300,600,580,550,700,95,2.10
+66,dye,hybrid,t-U(5000),fiber,780,300,750,730,650,850,21,0.50
+67,QD,polymer,PMMA,bulk,473,350,550,640,600,700,45,1.00
+68,QD,polymer,PMMA,bulk,350,300,450,550,450,750,56,26.50
+69,QD,polymer,PMMA,bulk,470,400,600,550,450,700,20,2.01
+70,CD,hybrid,"silicone dendrimers",film,450,310,510,525,500,700,11,7.58
+71,dye,polymer,acrylamide,film,545,400,700,680,550,800,50,12.50
+72,dye,solvent,water,solution,498,300,700,580,520,700,30,6.88
+73,dye,solvent,water,solution,569,350,600,595,550,750,61,2.58
+74,dye,solvent,water,solution,488,300,500,510,450,600,51,3.30
+75,CD,polymer,PNIPAm,bulk,460,350,500,510,350,500,54,2.70
+76,CD,polymer,PVP,film,420,300,550,515,400,700,40,1.60
+77,CD,polymer,"PVA; PVP; PVP+PEI",film,557,300,600,612,400,700,70,2.30
+78,CD,polymer,PVP,film,420,300,550,500,440,600,67,2.20
+79,CD,solvent,water,solution,491,250,520,520,500,700,82,5.43
+80,CD,hybrid,d-U(600),film,510,250,520,535,400,650,78,0.06
+81,CD,hybrid,d-U(600),fiber,510,250,520,535,400,650,78,1.70
+82,dye,polymer,PMMA,bulk,575,400,610,620,570,720,95,19.00
+83,CD,polymer,PVP,film,405,300,500,520,400,700,70,3.20
+84,CD,polymer,PVP,film,405,300,500,520,400,700,65,2.90
+85,QDdye,polymer,PLMA-co-EGDA,bulk,500,400,700,600,450,750,32.7,0.12
+86,CD,polymer,PVP,film,347,280,500,540,450,700,61,4.56
+87,Ln,polymer,thiol-ene,bulk,405,250,500,520,450,700,81,3.40
+88,CD,polymer,"HEMA/EGDMA",film,380,300,450,450,400,700,11.54,1.36
+89,QD,polymer,EVA,film,320,300,550,670,600,700,32.97,2.55
+90,CDQD,polymer,"HEMA/EGDMA/EVA",film,320,300,550,515,400,700,23,1.89
+91,CDQD,polymer,"HEMA/EGDMA/EVA",film,320,300,550,500,400,700,26,3.76
+92,CD,hybrid,"silicone resin",film,400,300,500,517,450,700,33,4.50
+93,CD,hybrid,"silicone resin",bulk,400,300,500,517,450,700,41,5.89
+94,CD,hybrid,"silicone resin",bulk,400,300,500,517,450,700,41.3,3.13
+95,CD,polymer,PVP,film,555,300,650,650,575,800,17.6,3.00
+96,CD,polymer,PVP,film,450,300,660,600,500,800,60,4.30
+97,CD,solvent,ethanol,solution,340,300,450,520,400,700,,1.23
+98,CD,polymer,PVP,film,340,300,450,520,400,700,,0.90
+99,CD,polymer,PVP,film,380,300,500,570,450,700,41.52,3.51
+100,CD,polymer,PVP,film,355,300,500,520,450,650,15.01,2.76
+101,CD,polymer,PVP,film,410,300,600,608,550,750,7.6,2.77
+102,CD,polymer,PVP,film,400,300,600,600,450,750,22,4.03
+103,QD,polymer,thiol-ene,bulk,600,400,650,625,550,700,30,2.70
+104,polymer,polymer,PMMA,film,500,392,250,491,650,400,47,5.71
+105,polymer,polymer,PMMA,film,500,392,250,473,650,450,57,9.11
+106,polymer,polymer,PMMA,film,500,392,250,454,650,400,68,12.08
+107,polymer,polymer,PMMA,film,500,392,250,491,650,400,47,5.71
+108,polymer,polymer,PMMA,film,500,392,250,473,650,450,57,9.11
+109,polymer,polymer,PMMA,film,500,392,250,454,650,400,68,12.08
+110,NP,polymer,PLA,bulk,600,511,450,527,580,490,65,0.15
+111,dye,polymer,PLA,bulk,600,554,450,612,700,575,70,0.16
+112,QD,solvent,n-hexane,solution,510,450,300,517,550,475,89,2.32
+113,dye,solvent,water,solution,660,480,680,665,600,800,31,2.65
+114,QD,polymer,polyester,film,400,300,500,630,550,700,67,2.50
+115,QD,polymer,PLMA-co-EGDA,film,480,380,550,650,600,700,4.7,4.90
+116,CD,polymer,PMMA,film,490,300,600,595,550,700,50,4.81
+117,QD,glass,glass,bulk,500,350,525,521,500,550,73,6.17
+118,QD,polymer,PMMA,bulk,343,300,750,600,400,850,39.2,0.70
+119,QD,polymer,PDMS,bulk,350,300,700,400,380,450,0.7,6.70
+120,QD,polymer,PDMS,bulk,400,300,700,600,400,700,4,8.43
+121,QD,polymer,PMMA,film,400,300,528,510,485,530,,12.26
+122,QD,polymer,PMMA,film,314,300,350,578,350,760,,1.15
+123,QD,solvent,toluene,solution,460,350,500,590,420,700,,11.00
+124,QD,solvent,"anhydrous dimethyl sulfoxide and N-methyl-2-pyrrolidone",film,500,350,780,780,680,830,,29.00
+125,QD,polymer,"polyester PU acrylate oligomer",film,500,400,750,700,625,775,99.4,3.10
+126,QD,polymer,thiol-ene,bulk,450,400,650,523,500,575,78,2.11
+127,QD,polymer,PMMA,film,374,350,800,710,600,800,56,2.00
+128,QD,polymer,PMMA,film,523,300,525,531,500,570,60,5.40
+129,QD,polymer,PLMA-co-EGDA,bulk,420,300,650,570,475,700,60,2.00
+130,QD,polymer,PMMA,film,450,375,525,520,450,575,70,0.87
+131,dye,polymer,"starch, sucrose and trehalose",film,580,250,620,620,550,800,75,3.20
+132,QD,polymer,poly(cyclohexylethylene),film,450,350,600,850,600,1000,73,2.50
+133,QD,polymer,"acrylate-based monomers",film,550,300,750,800,650,1000,70,4.36
+134,QD,polymer,PDMS,film,450,350,650,630,550,700,79.5,7.60
+135,QD,polymer,PVP,film,400,300,600,590,450,700,34.1,1.01
+136,QD,polymer,PMMA,bulk,400,300,600,700,500,900,70,3.80
+137,QD,polymer,PVP,film,450,350,600,628,550,700,70,3.00
+138,QD,polymer,PLMA-co-EGDA,bulk,500,350,650,625,550,675,40,5.30
+139,QDdye,polymer,PLMA-co-EGDA,bulk,590,300,650,600,450,700,32.7,1.00
+140,QD,polymer,PLMA-co-EGDA,bulk,700,500,900,900,700,1100,70,1.20
+141,QD,polymer,PLMA,bulk,500,400,700,750,600,900,,5.70
+142,QD,polymer,PLMA,bulk,450,300,530,620,550,700,54.3,1.79
+143,QD,polymer,"3-mercaptopropionic acid",film,550,350,700,700,400,1000,45,1.68
+144,QD,polymer,PMMA,bulk,470,400,650,560,475,700,20,2.01
+145,QD,polymer,PVP,film,450,300,800,630,580,700,50,1.93
+146,QDdye,polymer,PVP,film,500,350,600,560,450,700,86,16.32
+147,QD,polymer,"poly(vinylidene fluoride)",film,350,300,600,580,500,650,,0.81
+148,QD,polymer,PVP,film,400,300,550,550,450,700,91.1,6.40
+149,QD,solvent,KH-792,solution,362,300,450,442,400,650,62,4.40
+150,dye,polymer,"EHM-co-FMA and BMIH",film,570,300,650,620,550,750,50,4.90
+151,dye,polymer,GTPn-based,film,500,400,600,630,500,750,6.6,7.70
+152,dye,polymer,PMMA,film,450,300,550,568,450,700,27.2,8.00
+153,dye,polymer,PMMA,bulk,420,300,500,550,400,800,35,2.33
+154,dye,polymer,PBzMA,film,400,300,450,490,400,700,75,2.32
+155,dye,polymer,PDMS,bulk,520,450,550,538,500,700,93,10.18
+156,dye,polymer,PDMS,bulk,520,450,550,538,500,700,93.,10.12
+157,QD,polymer,PMMA,bulk,516,300,550,528,470,750,100,82.20
+158,QD,polymer,PMMA,bulk,487,300,600,599,550,650,100,91.80
+159,QD,polymer,PMMA,bulk,437,300,450,590,525,700,100,91.80
+160,dye,polymer,PMMA,fiber,575,300,610,620,570,720,100,21.00
+161,dye,,,bulk,575,300,610,620,570,720,3,2.00
+162,dye,polymer,bulk,575,300,610,620,570,720,96,37.73
+163,dye,polymer,"styrene acrylonitrile resin",bulk,576,300,610,647,575,800,96,8.20
+164,dye,polymer,PMMA,bulk,576,300,610,648,575,800,96,8.90
+165,dye,polymer,polycarbonate,bulk,576,300,610,651,575,800,96,8.30
+166,dye,polymer,polycarbonate,bulk,576,300,610,651,575,800,960,8.00
+167,dye,polymer,polycarbonate,bulk,576,300,610,650,575,800,96,8.90
+168,dye,polymer,PMMA,bulk,370,300,500,509,480,750,68,5.20
+169,dye,polymer,PMMA,bulk,370,300,500,509,480,750,68.,3.70
+170,QD,polymer,PLMA-co-EGDA,bulk,400,300,550,513,475,550,65,1.22
+171,dye,polymer,PMMA,bulk,400,300,550,600,400,800,,6.40
+172,dye,polymer,PDMS,bulk,461,300,550,590,500,750,100,4.20
+173,CD,polymer,PDMS,film,325,200,700,555,500,700,32,4.26
+174,QDNP,polymer,thiol-ene,film,440,410,523,525,440,710,61,2.90
+175,Ln,polymer,"Disperbyk 2015",film,330,300,400,615,570,640,20,4.30
+176,dye,polymer,PVP,film,635,400,700,909,800,1000,12.93,1.21
+177,QD,polymer,PMMA,film,390,350,463,478,425,550,,2.52
+178,QD,polymer,PMMA,film,425,350,520,525,475,550,,4.12
+179,CD,polymer,PVA,film,366,300,450,450,390,600,57.77,1.98
+180,QD,solvent,toluene,film,350,300,450,511,420,775,65.4,3.26
+181,QD,solvent,toluene,film,350,300,620,630,450,775,94.6,6.53
+182,QD,solvent,toluene,film,350,300,620,570,420,775,80,9.94
+183,dye,polymer,polymer,bulk,530,300,600,560,500,700,95,19.00
+184,Ln,glass,glass,bulk,583,500,900,1060,1000,1200,62,10.00
+185,dye,polymer,PMMA,film,530,300,600,560,500,700,,6.30
+186,Ln,glass,glass,bulk,583,500,900,1060,1000,1200,68,5.90
+187,dye,polymer,PMMA,film,523,400,550,577,520,650,99,20.50
+188,dye,polymer,PMMA,film,560,400,700,651,575,850,31,1.40
+189,dye,polymer,PMMA,film,542,400,650,633,575,850,38,3.10
+190,dye,polymer,PMMA,film,523,400,700,618,575,850,68,4.40
+191,dye,polymer,PMMA,film,447,400,525,550,525,700,66,1.80
+192,CD,polymer,PVP,film,477,350,600,575,525,700,80,5.17
+193,CD,polymer,PLMA-co-EGDA,bulk,300,300,520,460,380,630,6.07,

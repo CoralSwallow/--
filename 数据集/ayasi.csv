@@ -1,0 +1,21 @@
+数据集,地点,杰宁,安曼
+数据集,时间范围,2017-2019,2017-2019
+数据集,样本数,26280,26280
+,,,
+模型,网络类型,时间序列类型,编码方式,训练方法,RMSE(杰宁),MAE(杰宁),nRMSE(杰宁),RMSE(安曼),MAE(安曼),nRMSE(安曼)
+ANN,LSTM,多变量,None,Backprop,50,27.8,0.047,18,12.7,0.017
+ANN,LSTM,单变量,None,Backprop,57.8,31,0.053,23,13.7,0.02
+ANN,MLP,多变量,None,Backprop,49.8,27,0.047,17.37,16,0.018
+ANN,MLP,单变量,None,Backprop,57.3,31.6,0.053,23.02,14,0.022
+ANN,CNN,多变量,None,Backprop,48.34,24,0.047,18.46,12.7,0.016
+ANN,CNN,单变量,None,Backprop,59.8,30,0.053,26.06,23,0.021
+SNN,MLP,多变量,Sigma-Delta,SLAYER,53,31,0.05,25.09,22,0.025
+SNN,MLP,单变量,Sigma-Delta,SLAYER,64,33,0.06,31.49,18,0.028
+SNN,CNN,多变量,Sigma-Delta,SLAYER,52,25,0.048,22.58,28,0.022
+SNN,CNN,单变量,Sigma-Delta,SLAYER,60,28,0.056,24.1,14.7,0.024
+SNN,MLP,多变量,Rate coding,Bootstrap,51.96,28,0.049,23.12,18,0.024
+SNN,MLP,单变量,Rate coding,Bootstrap,63.62,36,0.06,30.83,17.7,0.026
+SNN,CNN,多变量,Rate coding,Bootstrap,50.9,29,0.048,22.6,15,0.022
+SNN,CNN,单变量,Rate coding,Bootstrap,65.32,30,0.057,31.75,17,0.025
+,,,
+能耗优势,理论节能倍数,7-9倍

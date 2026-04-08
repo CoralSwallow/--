@@ -1,0 +1,44 @@
+﻿Entry,Type_OC,Chemical_OC,Host,Processing,Ap,Amin,Amax,Ep,Emin,Emax,QY,nopt
+1,QD,polymer,PLMA-co-EGDA,bulk,450,400,600,580,550,650,86,48.00
+2,dye,hybrid,d-U(600),bulk,570,300,600,650,350,750,80,14.50
+3,Ln,polymer,PMMA,film,380,250,400,612,570,710,30.5,0.34
+4,CD,hybrid,KH-792,film,350,300,425,510,400,650,45,12.00
+5,dye,polymer,PMMA,bulk,380,300,500,509,480,750,68,4.40
+6,dye,polymer,PMMA,bulk,520,400,550,580,500,700,99,7.50
+7,dye,polymer,PDMS,bulk,446,250,500,553,500,800,89.5,31.30
+8,CD,polymer,PDMS,film,300,200,675,518,425,675,44,3.71
+9,CD,polymer,PLMA-co-EGDA,bulk,300,300,520,460,380,630,6.07,
+10,dye,polymer,PDMS,bulk,575,300,610,620,570,720,100,33.00
+11,dye,polymer,"(simulated n=1.5)",bulk,575,400,610,620,570,700,96,37.70
+12,QD,polymer,OSTE,bulk,480,400,660,622,550,700,15.7,3.20
+13,dye,polymer,PMMA,bulk,590,350,650,604,500,750,64,3.30
+14,CD,polymer,siloxane,film,358,225,425,441,400,600,94,3.90
+15,CD,polymer,PVP,film,490,300,520,510,450,650,80.5,4.80
+16,dye,polymer,,,575,300,610,620,570,720,3,4.80
+17,CD,polymer,PDMS,film,280,200,650,448,425,650,56,5.10
+18,CD,polymer,"p(MMA-NIPAm)",bulk,340,300,500,520,400,700,6,5.84
+19,QD,polymer,"lauryl methacrylate and ethylene glycol dimethacrylate",bulk,620,560,775,885,690,1240,45,6.10
+20,dye,polymer,polycarbonate,bulk,576,300,610,651,575,800,96,8.10
+21,dye,polymer,polycarbonate,bulk,576,300,610,658,575,800,96,8.10
+22,dye,polymer,PS,bulk,576,300,610,646,575,800,96,8.40
+23,dye,polymer,PMMA,film,533,400,625,656,550,850,77,8.40
+24,CD,polymer,PMMA,bulk,470,300,550,535,450,650,9.6,9.30
+25,dye,polymer,PMMA,bulk,380,300,500,509,480,700,,10.40
+26,Ln,glass,glass,bulk,583,400,950,1060,900,1100,32,4.50
+27,dye,polymer,PMMA,film,530,300,600,560,500,700,,6.30
+28,Ln,glass,glass,bulk,583,500,900,1060,1000,1200,62,10.00
+29,Ln,glass,glass,bulk,583,500,900,1060,1000,1200,68,5.90
+30,QD,polymer,PMMA,bulk,516,300,550,528,470,750,100,82.20
+31,QD,polymer,PMMA,bulk,487,300,600,599,550,650,100,91.80
+32,QD,polymer,PMMA,bulk,437,300,450,590,525,700,100,91.80
+33,dye,polymer,PDMS,bulk,520,450,550,538,500,700,93,10.18
+34,dye,polymer,PDMS,bulk,520,450,550,538,500,700,93,10.12
+35,dye,polymer,PMMA,fiber,575,300,610,620,570,720,100,21.00
+36,dye,polymer,"styrene acrylonitrile resin",bulk,576,300,610,647,575,800,96,8.20
+37,dye,polymer,PMMA,bulk,576,300,610,648,575,800,96,8.90
+38,dye,polymer,polycarbonate,bulk,576,300,610,651,575,800,96,8.30
+39,dye,polymer,polycarbonate,bulk,576,300,610,651,575,800,960,8.00
+40,dye,polymer,polycarbonate,bulk,576,300,610,650,575,800,96,8.90
+41,dye,polymer,PMMA,bulk,370,300,500,509,480,750,68,5.20
+42,dye,polymer,PMMA,bulk,370,300,500,509,480,750,68,3.70
+43,dye,polymer,PMMA,bulk,400,300,550,600,400,800,,6.40
